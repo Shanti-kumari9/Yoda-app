@@ -1,0 +1,324 @@
+
+textarea {
+    color: black;
+   
+}
+
+.mani-div{
+    align-items: center;
+    margin-left: 40%;
+}
+#output{
+    border:5px solid black;
+    height: 5vh;
+    width: 45%;
+    margin: 5rem;
+    padding: 5rem;
+    margin-left: 25%;
+    margin-top: 1%; 
+}
+Button {
+    font-size: larger;
+    margin-bottom: 23px;
+    text-align: center;
+margin-bottom: 6%;}
+    
+    
+/* } */
+textarea {
+    width: 45%;
+    height: 7vh ;
+    border-radius: solid black;
+    display:  block;
+    margin: 5rem; 
+    padding: 5rem;
+    margin-top: 2%;
+    margin-left: 9%;
+    border: 5px solid black;
+}
+/* .border{ */
+    /* border:1px solid black ; */
+    /* height: 3vh; */
+    /* width: 52%; */
+    /* margin-left: 4%; */
+    /* margin-top: 30%; */
+/* } */
+.about{
+    margin-left: 29%;
+    /* text-align: solid black; */
+    margin-top: -3%;
+}
+.pragrap{
+    margin-left: 29%;
+    margin-top: -3;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* textarea {
+    color: black;
+    /* height: 15vh; */
+    /* display:  block; */
+    /* margin: 3rem;  */
+    /* padding: 1rem; */
+    /* margin-left: 3%; */
+    /* margin-top: 1%; */
+
+/* }  */
+/* #output {
+    border: 1px solid black;
+    height: 10vh;
+    width : 5%;
+    margin: 2rem;;
+    padding: 2rem;
+    margin-left: 10%;
+    margin-top:3% ;
+} */
+/* h1{ */
+    /* font-size: 250%; */
+    
+    
+    
+/* }
+.mani-div{
+align-items: center;
+margin-left: 40%;
+}
+.box1{
+border:2px solid black;
+height: 1vh;
+width: 35%;
+margin: 5rem;
+padding: 5rem;
+margin-left: 29%;
+margin-top: 1%; 
+}
+/* .box2{
+
+
+
+
+
+
+
+
+
+
+border:2px solid black ; */
+/* height: 5vh;
+width: 30%;
+margin: 5rem;
+padding: 5rem;
+margin-left: 30%;
+margin-top: 2%;
+} */ 
+
+
+
+
+
+
+
+
+
+
+
+/* */
+/* .border{
+border:1px solid black ;
+height: 3vh;
+width: 12%; */
+/* margin-left: 4%; */
+/* margin-top: -3%;
+}
+.about{
+margin-left: 29%;
+margin-top: -3%;
+}
+.pragrap{
+margin-left: 29%;
+margin-top: -3;
+} */ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* textarea {
+    color: black;
+    
+}
+
+.mani-div{
+align-items: center;
+margin-left: 40%;
+}
+.box1{
+border:2px solid black;
+height: 1vh;
+width: 35%;
+margin: 5rem;
+padding: 5rem;
+margin-left: 29%;
+margin-top: 1%; 
+}
+
+.border{
+border:1px solid black ;
+height: 3vh;
+width: 12%;
+/* margin-left: 4%; */
+
+/* margin-top: -3%;
+}
+.about{
+margin-left: 29%;
+margin-top: -3%;
+}
+.pragrap{
+margin-left: 29%;
+margin-top: -3;
+} */
